@@ -3,6 +3,8 @@
 ## Project Overview
 This project demonstrates advanced data analysis skills through a real-world business scenario. As a data analyst, I analyzed Monday Coffee's sales data to provide actionable insights for business expansion strategy. The project showcases expertise in SQL, data analysis, and business intelligence.
 
+![Image](https://github.com/user-attachments/assets/587a2439-86c7-4523-af1c-83d87d3f2193)
+
 ## Business Context
 Monday Coffee, an online coffee retailer since January 2023, needed to identify the most promising locations for physical store expansion in India. This project involved comprehensive analysis of sales data, customer behavior, and market potential across multiple cities.
 
